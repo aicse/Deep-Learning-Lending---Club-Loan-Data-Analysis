@@ -11,19 +11,19 @@ Perform exploratory data analysis and feature engineering and then apply feature
 
 Tasks:
 1.     Feature Transformation
-•	Transform categorical values into numerical values (discrete)
+	* Transform categorical values into numerical values (discrete)
 2.     Exploratory data analysis of different factors of the dataset.
 3.     Additional Feature Engineering
-•	You will check the correlation between features and will drop those features which have a strong correlation
-•	This will help reduce the number of features and will leave you with the most relevant features
+	* You will check the correlation between features and will drop those features which have a strong correlation
+	* This will help reduce the number of features and will leave you with the most relevant features
 4.     Modeling
-•	After applying EDA and feature engineering, you are now ready to build the predictive models
+	* After applying EDA and feature engineering, you are now ready to build the predictive models
 
 Deep Learning :
 While deep learning models can be effective for complex problems, such as image recognition and natural language processing, the performance of these models on the Lending Club loan data may not be significantly better than that of traditional machine learning algorithms.
 
 
-Conclusion
-Overall, the Lending Club Loan Data Analysis project provides a valuable opportunity to apply data analysis and machine learning techniques to a real-world problem, and can help improve our understanding of loan defaults and their underlying causes.
+Conclusion :
+		Overall, the Lending Club Loan Data Analysis project provides a valuable opportunity to apply data analysis and machine learning techniques to a real-world problem, and can help improve our understanding of loan defaults and their underlying causes.
 
  
